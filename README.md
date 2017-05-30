@@ -1,2 +1,2 @@
-# tags2info
-Tags2 bug tracker
+# Tags4Info
+Tags4Info bug tracker
